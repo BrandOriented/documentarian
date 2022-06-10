@@ -21,9 +21,9 @@
     "documentarian"
   ],
   "require": {
-    "php": ">=5.5.9",
+    "php": ">=8.1",
     "mnapoli/silly": "~1.0",
-    "illuminate/view": "5.*|^6.0|^7.0|^8.0",
+    "illuminate/view": "^8.0|69.0",
     "mnapoli/front-yaml": "^1.5",
     "windwalker/renderer": "3.*"
   },
